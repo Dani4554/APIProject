@@ -1,0 +1,20 @@
+body{
+    background-image: url("../images/cover_4_blur.jpg");
+}
+
+
+.topic{
+    height: 65px;
+    width: 150px;
+    background-color: teal;
+    margin: 10px; 
+}
+
+.gif{
+    float: left;
+    margin: 78px;
+    width: 300px;
+    height: 200px;
+}
+
+
