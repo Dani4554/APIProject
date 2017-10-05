@@ -27,7 +27,7 @@ for(var i = 0; i < topics.length; i++){
 //Makes the nessecary url for the API call
 var authKey = "YfjiO13LRqqZDr112Qsy8R6iOT62eI4f";
 
-var baseQueryUrl = "http://api.giphy.com/v1/gifs/search?api_key=" + authKey + "&q=";
+var baseQueryUrl = "https://api.giphy.com/v1/gifs/search?api_key=" + authKey + "&q=";
 
 var searchTerm = "friends";
 
